@@ -6,5 +6,5 @@ Main task which is analyzing and cross checking bank statements with proofs give
 
 Implemented automation of inquiring and verifying the work experience of applicant from his employers.
 
-
+Video Presentation: https://drive.google.com/file/d/1s22il30W-2DxveY5Ez5MIMFhDNQOjG8d/view?usp=sharing
 Not a full fledge implementation as its not required by the module. 
